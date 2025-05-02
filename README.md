@@ -1,31 +1,74 @@
 <h1 align="center">Hi 👋, I'm Aeni Parmar</h1>
-<h3 align="center">An Aspiring Data Analyst from India</h3>
+<h3 align="center">Aspiring Data Analyst | Deep Learning Enthusiast | ISRO Intern</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AeniParmar&label=Profile%20views&color=0e75b6&style=flat" alt="AeniParmar" /> </p>
-
-- 🔭 I’m currently working on **Data Analysis**
-
-- 🌱 I’m currently learning **Data Science, Data Analysis and Machine Learning**
-
-- 💼 I’ve completed an **internship at Space Applications Centre, ISRO, Ahmedabad**, where I worked on a deep learning-based project related to satellite imagery.
-
-- 📫 How to reach me: **aeninparmar@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left" >
-<a href="https://linkedin.com/in/aeni-parmar-843819253" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Aeni Parmar" height="50" width="50" /></a>
-<a href="https://instagram.com/aeni.__" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="aeni.__" height="50" width="50" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AeniParmar&label=Profile%20views&color=0e75b6&style=flat" alt="AeniParmar" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org/"  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" width="50" height="50" /></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" alt="c" width="50" height="50"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="50" height="50"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="50" height="50"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="50" height="50"/> </a>
-</p>
+---
+
+🎓 **Computer Engineering Graduate** from Government Engineering College, Bhavnagar  
+📍 Based in Ahmedabad, Gujarat | Originally from Surat  
+💡 Passionate about transforming data into meaningful insights  
+
+---
+
+## 🛰️ Internship Experience
+
+### 🚀 ISRO – Space Applications Centre, Ahmedabad (Jan 2024 – Apr 2024)  
+**Role:** Research Intern –   
+- Worked on a project titled **"Hierarchical Image Matching for DEM Generation using Stereo Imagery"**  
+- Applied advanced computer vision techniques such as **SIFT, Harris keypoints, KDTree, Homography**, and **NCC**  
+- Tools used: **Python, SNAP, SEDAM/SEDAN**  
+- Focused on optimizing Digital Elevation Model (DEM) generation from high-resolution satellite imagery  
+
+### 💻 Codtech IT Solutions (Online) – Data Analyst Intern (Jun 2024 – Jul 2024)  
+- Completed two projects: **Exploratory Data Analysis (EDA)** and **Social Media Sentiment Analysis**  
+- Conducted EDA on large datasets to identify patterns, trends, and insights  
+- Applied **Natural Language Processing (NLP)** techniques for sentiment analysis and **hate speech detection** in tweets  
+- Used Python libraries like **Pandas, Scikit-learn, and Matplotlib** for text preprocessing, feature extraction, and logistic regression modeling  
+
+---
+
+## 📊 Career Objective
+
+To secure a position as a **Data Analyst** where I can leverage my skills in **Python, SQL, Data Visualization, and Machine Learning** to analyze data, uncover insights, and support strategic decision-making.
+
+---
+
+## 🧠 Currently Learning
+
+- Data Science & Machine Learning
+- Data Visualization (Matplotlib, Seaborn, Plotly)
+- Dashboarding with Power BI & Tableau
+- Advanced Python for Data Analysis
+- Projects on Kaggle & GitHub
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, SQL, Java, C  
+**Tools & Libraries:** Pandas, NumPy, Scikit-Learn, OpenCV, Matplotlib, Seaborn, Power BI, Tableau  
+**Databases:** MySQL  
+**Operating Systems:** Windows, Linux  
+**Version Control:** Git & GitHub  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **aeninparmar@gmail.com**  
+- 💼 LinkedIn: [Aeni Parmar](https://linkedin.com/in/aeni-parmar-843819253)  
+- 📸 Instagram (personal): [@aeni.__](https://instagram.com/aeni.__)  
+
+---
+
+## 📈 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AeniParmar&show_icons=true&locale=en&layout=compact" alt="AeniParmar"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AeniParmar&show_icons=true&locale=en" alt="AeniParmar" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AeniParmar&" alt="AeniParmar" /></p>
+
+---
+
