@@ -60,7 +60,6 @@ To secure a position as a **Data Analyst** where I can leverage my skills in **P
 
 - 📧 Email: **aeninparmar@gmail.com**  
 - 💼 LinkedIn: [Aeni Parmar](https://linkedin.com/in/aeni-parmar-843819253)  
-- 📸 Instagram (personal): [@aeni.__](https://instagram.com/aeni.__)  
 
 ---
 
