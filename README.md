@@ -49,7 +49,7 @@ To secure a position as a **Data Analyst** where I can leverage my skills in **P
 ## 🛠️ Technical Skills
 
 **Languages:** Python, SQL, Java, C  
-**Tools & Libraries:** Pandas, NumPy, Scikit-Learn, OpenCV, Matplotlib, Seaborn, Power BI, Tableau  
+**Tools & Libraries:** Pandas, NumPy, Scikit-Learn, OpenCV, Matplotlib, Power BI, Tableau  
 **Databases:** MySQL  
 **Operating Systems:** Windows, Linux  
 **Version Control:** Git & GitHub  
