@@ -8,7 +8,7 @@
 ---
 
 🎓 **Computer Engineering Graduate** from Government Engineering College, Bhavnagar  
-📍 Based in Ahmedabad, Gujarat | Originally from Surat  
+📍 Based in Surat, Gujarat   
 💡 Passionate about transforming data into meaningful insights  
 
 ---
