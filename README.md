@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aeni Parmar</h1>
-<h3 align="center">Aspiring Data Analyst | Deep Learning Enthusiast | ISRO Intern</h3>
+<h3 align="center">Aspiring Data Analyst | Machine Learning Enthusiast | EX - ISRO Intern</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AeniParmar&label=Profile%20views&color=0e75b6&style=flat" alt="AeniParmar" />
