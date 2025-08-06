@@ -19,7 +19,7 @@
 **Role:** Research Intern –   
 - Worked on a project titled **"Hierarchical Image Matching for DEM Generation using Stereo Imagery"**  
 - Applied advanced computer vision techniques such as **SIFT, Harris keypoints, KDTree, Homography**, and **NCC**  
-- Tools used: **Python, SNAP, SEDAM/SEDAN**  
+- Tools used: **Python, SNAP, SEDAN**  
 - Focused on optimizing Digital Elevation Model (DEM) generation from high-resolution satellite imagery  
 
 ### 💻 Codtech IT Solutions (Online) – Data Analyst Intern (Jun 2024 – Jul 2024)  
