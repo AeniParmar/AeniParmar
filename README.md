@@ -15,7 +15,7 @@
 
 ## 🛰️ Internship Experience
 
-### 🚀 ISRO – Space Applications Centre, Ahmedabad (Jan 2024 – Apr 2024)  
+### 🚀 ISRO – Space Applications Centre, Ahmedabad (Jan 2025 – Apr 2025)  
 **Role:** Research Intern –   
 - Worked on a project titled **"Hierarchical Image Matching for DEM Generation using Stereo Imagery"**  
 - Applied advanced computer vision techniques such as **SIFT, Harris keypoints, KDTree, Homography**, and **NCC**  
